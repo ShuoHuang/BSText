@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/a1049145827/BSText'
   spec.author       = { 'Geek Bruce' => 'a1049145827@hotmail.com' }
   spec.social_media_url = 'https://a1049145827.github.io'
-  spec.source       = { :git => 'https://github.com/a1049145827/BSText.git', :tag => spec.version.to_s }
+  spec.source       = { :git => 'https://github.com.cnpmjs.org/ShuoHuang/BSText.git', :tag => spec.version.to_s }
   spec.description  = 'Attribute Text View for iOS likes YYText'
   spec.dependency 'YYImage'
   spec.source_files = 'BSText/*.swift', 'BSText/*/*.swift', 'BSText/*.h'
